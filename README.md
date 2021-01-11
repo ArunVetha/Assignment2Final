@@ -7,13 +7,13 @@ Github Page Link -  https://arunvetha.github.io/Assignment2Final/
  
 ## Design Process
  
-Initially I wanted this API to be simple and didn't want to add lots of data and fill it with bloatwares, but then I added resources which could be considered relavant and useful. Then the Navigation bar which I had to choose whether or not to keep it moving or static. Followed by overall visual that suggested me to add image backgrounds.
+Initially I wanted this API to be simple and didn't want to add lots of data and fill it with bloatwares, but then I added resources which could be considered relavant and useful. Then the Navigation bar which I had to choose whether or not to keep it moving or static since its just for usual and no distinct pages are linked. Followed by overall visual that suggested me to add image backgrounds. Additional features other than just name searches.
 
-- As a user, my website design should be supported on all platforms.
-- As a user, my website's source code should be error free.
-- As a user, the website's data shouldn't overwhelm me.
-- As a student, how do I perfect the website without using any other external code or different language.
-- As a user, a website should be made more colorful and visually pleasing.
+- As a user, my API website design should be supported on all platforms.
+- As a user, my API website's source code should be error free.
+- As a user, the API website's data should be simple and easy to understand.
+- As a student, how do I perfect the API website without using any other external code or different language.
+- As a user, a API website should be made more colorful and visually pleasing.
 
 ## Wireframe Link
 https://xd.adobe.com/view/8491dda6-cc5d-4752-be70-4e18ee7407e7-d1c2/
@@ -28,11 +28,13 @@ Location: Singapore
 Bio: I love coding.
  
 ### Existing Features
-- Cool Feature - allows users to attend a small quiz about me.
-Some additional feature which could be included are some fun games, discussion board, direct chat terminal, some videos and pictures of me, school history, usaage of advanced CSS, utilising javascript and DOM.
+- Cool Feature - see their (searched profile's) bio and location if they have provided one.
+Some additional feature which could be included are some fun games, discussion board, direct chat terminal, latest updates on github database (live feed), New users, usaage of advanced CSS, utilising javascript / JSON / Bootstrap / JQuery, repository accesses.
 
 ### Features Left to Implement
 - some additional features if possible 
+  - Repository access on the API site
+  - Latest updates on github database (live feed of new profiles)
 
 ## Technologies Used
 
@@ -55,9 +57,9 @@ Some additional feature which could be included are some fun games, discussion b
 
 1. Overall website:
     1. Make sure that all hyperlink is working.
-    2. Make sure that the navigation bar is functional.
-    3. Be sure that the survey link collects user identification when doing the quiz.
-    4. Check if the color schemes matches with different pages.
+    2. Make sure that the requests are fine and we get the necessary data back.
+    3. Be sure that the results are accurate and instant.
+    4. Check if the user data matches with that of the github pull request.
 
 2. Projects page:
     1. Try to align the contents accordingly, which could vary for different platforms.  
