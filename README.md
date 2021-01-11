@@ -20,14 +20,19 @@ https://xd.adobe.com/view/8491dda6-cc5d-4752-be70-4e18ee7407e7-d1c2/
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+My project allows users to search and view profiles of other users. The data available are name, number of repositories, bio, and location.
+For example:
+Name: Arun
+Repositories: 10
+Location: Singapore
+Bio: I love coding.
  
 ### Existing Features
 - Cool Feature - allows users to attend a small quiz about me.
 Some additional feature which could be included are some fun games, discussion board, direct chat terminal, some videos and pictures of me, school history, usaage of advanced CSS, utilising javascript and DOM.
 
 ### Features Left to Implement
-- Design Refinements
+- some additional features if possible 
 
 ## Technologies Used
 
@@ -37,6 +42,14 @@ Some additional feature which could be included are some fun games, discussion b
 - CSS (https://www.w3.org/Style/CSS/Overview.en.html)
     - The project uses cascading style sheets for visual arrangements and decorations for the site.
 
+- Fetch API
+    - Fetch() allows you to make network requests similar to XMLHttpRequest (XHR). The main difference is that the Fetch API uses Promises.
+
+- Github API
+    - You can use the GitHub REST API to create calls to get the data you need to integrate with GitHub.
+    
+- Postman
+    -  Postman Interceptor helps you send requests which use browser cookies through the Postman app.
 
 ## Testing
 
@@ -49,14 +62,11 @@ Some additional feature which could be included are some fun games, discussion b
 2. Projects page:
     1. Try to align the contents accordingly, which could vary for different platforms.  
 
-3. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+3. Lack of content:
+    1. At the end after coding APIs and getting it to work, I struggled a bit to add few extra features
     
 4. Image path:
-    1. There seem to be some problem with the image path, sometimes the relative path works and sometime it doesn't. In that case, the path which consisted of personal directory information was used but It may not work on the lecturers's system since the path has the student's directory. So relative paths were used but sometimes they seem broken for images and it works fine for CSS linking.
+    1. There seem to be some problem with the image path, sometimes the relative path works and sometime it doesn't. In that case, the path which consisted of personal directory information was used but It may not work on the lecturers's system since the path has the student's directory. So relative paths were used but sometimes they seem broken for images and it works fine for CSS linking. This is the same case as in assignment 1.
 
 In addition, the assignment looks and works fine on different browsers and screen sizes.
 The platforms tested are - Safari, Chrome, Firefox, Android, IOS and opera.
@@ -65,13 +75,15 @@ I came accross several bugs and careless mistakes from simple missed hyphens to 
 
 
 ## Credits
-A warm thanks to my past lecturers and my friends for group projects that I mentioned.
+Special Thanks to,
+Hamza Mirza, https://www.youtube.com/c/HamzaMirza/featured
+
 
 ### Content
-- The text for all sections are typed by me. 
+- The text, javascript codes for all sections are typed by me. A few css sections were referred like normalise. A few JSON, JQuery methods were referred and coded.
 
 ### Media
-- The photos used in this site were obtained from last semester projects and google...
+- The photos used in this site were obtained from google. And the data utilised are fetched from github API.
 
 ### Acknowledgements
 - I received inspiration for this project from myself, Youtube, few of my peers and internet
