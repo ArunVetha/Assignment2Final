@@ -1,4 +1,4 @@
-//init github
+
 const github = new GitHub();
 
 
@@ -13,7 +13,7 @@ searchUser.addEventListener('keyup', (e) => {
 		github.getUser(userText)
 		.then(data => {
 			if(data.profile.message === 'Not Found'){
-				//show alert
+
 				document.getElementById('profile').innerHTML = `Name: Not Found`;
 			} else {
 				document.getElementById('profile').innerHTML = `
@@ -30,7 +30,7 @@ searchUser.addEventListener('keyup', (e) => {
 			}
 		})
 	} else {
-		//Clear profile.
+
 
 		document.getElementById('profile').innerHTML = '';
 	}
