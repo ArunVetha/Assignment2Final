@@ -79,13 +79,13 @@ I came accross several bugs and careless mistakes from simple missed hyphens to 
 ## Credits
 Special Thanks to,
 Hamza Mirza, https://www.youtube.com/c/HamzaMirza/featured
-
+Images - https://www.pxwall.com
 
 ### Content
 - The text, javascript codes for all sections are typed by me. A few css sections were referred like normalise. A few JSON, JQuery methods were referred and coded.
 
 ### Media
-- The photos used in this site were obtained from google. And the data utilised are fetched from github API.
+- The photos used in this site were obtained https://www.pxwall.com. And the data utilised are fetched from github API.
 
 ### Acknowledgements
 - I received inspiration for this project from myself, Youtube, few of my peers and internet
