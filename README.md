@@ -90,4 +90,4 @@ Images - https://www.pxwall.com
 - The photos used in this site were obtained https://www.pxwall.com. And the data utilised are fetched from github API.
 
 ### Acknowledgements
-- I received inspiration for this project from myself, Youtube, few of my peers and internet
+- I received inspiration for this project from myself, Youtube, few of my peers and internet.
