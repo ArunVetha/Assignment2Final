@@ -4,6 +4,8 @@ The overall objective of the website is for other users to search users by their
 Not only that, users can view the location, number of repositories and bio of the serached profile
 
 Github Page Link -  https://arunvetha.github.io/Assignment2Final/
+
+Short Demo of how the website looks like and it's features, view it here - https://drive.google.com/file/d/1e9YJQ2wg9y_PYkUlwHObBAlQflwU0fzl/view?usp=sharing
  
 ## Design Process
  
